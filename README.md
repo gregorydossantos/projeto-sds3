@@ -13,19 +13,19 @@ The application consists of the presentation of a dashboard that presents a tabl
 
 ![Web 2](https://github.com/gregorydossantos/projeto-sds3/blob/main/assets/dashboard.png)
 
-## Modelo conceitual
+## Conceptual Model
 ![Modelo Conceitual](https://github.com/gregorydossantos/projeto-sds3/blob/main/assets/databaseclass.png)
 
-# Tecnologias utilizadas
-## Back end
+# Technologies used
+## Backend
 - Java
 - Spring Boot
-- JPA / Hibernate
+- JPA/Hibernate
 - Maven
-## Front end
-- HTML / CSS / JS / TypeScript
+## Frontend
+- HTML/CSS/JS/TypeScript
 - ReactJS
-- React Native
+- Axios
 - Apex Charts
 ## Implantação em produção
 - Backend: Heroku
