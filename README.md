@@ -27,11 +27,11 @@ The application consists of the presentation of a dashboard that presents a tabl
 - ReactJS
 - Axios
 - Apex Charts
-## Implantação em produção
+## Production Deploymen
 - Backend: Heroku
 - Frontend web: Netlify
 - Banco de dados: Postgresql
 
-# Autor
+# Author
 ## Gregory Castezana
 https://www.linkedin.com/in/gregory-dos-santos-castezana-b77847a2/
